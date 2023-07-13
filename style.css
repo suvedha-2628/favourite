@@ -1,0 +1,38 @@
+.text{
+    font-size: small;
+}
+.img{
+    float: left;
+}
+.button
+{
+    position:relative;left:900px;top:-50px;
+    width: 45px;
+    height: -100px;
+    border: 2px double;
+    color:red;
+    background-color:aquamarine;
+}
+col{
+    background-color:green;
+    height:-45;
+    width:-100;
+}
+.menu{
+    display:inline-block;
+}
+#verb
+{
+    position:relative;left: 300px;
+}
+#name{
+    position: relative;left: 650px;
+}
+.bdy{
+    background-color:aqua;
+}
+#bee{
+    text-align:center;
+    text-align:justify;
+    font-size:large;
+}
